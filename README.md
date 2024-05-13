@@ -1,16 +1,30 @@
-### Hi there 👋
+name: Muhammad Zamir
+located_in: Islamabad, Pakistan
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Software Developer",
+    "Master's in Software Engineering",
+    "Bachelor's in Software Engineering",
+  ]
 
-<!--
-**Muhammad-Zamir/Muhammad-Zamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "Python",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "Python Backend Developer",
+    "Machine Learning in Python",
+    "Internet Of Things",
+    "Deployment of Python Applications",
+  ]
+  
+currently_learning: ["Docker, Kubernetes, and Data Science"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gym", "Cinema", "Cricket", "Photography", "Comedy"]
