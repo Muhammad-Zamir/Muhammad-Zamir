@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zamir</h1>
-<h3 align="center">A passionate Python developer from Pakistan</h3>
+<h3 align="center">A passionate Python developer</h3>
 
 - 🔭 I’m currently working on **FastAPI and Django Rest Frame work**
 
@@ -10,7 +10,7 @@
 - 📫 How to reach me **mzamir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/muhammad zamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad zamir" height="30" width="40" /></a>
 <a href="https://instagram.com/engr_muhammadzamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engr_muhammadzamir" height="30" width="40" /></a>
 </p>
