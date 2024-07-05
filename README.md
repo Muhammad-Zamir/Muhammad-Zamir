@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FastAPI and Django Rest Frame work**
 
-- 🌱 I’m currently learning **Machina Learning and Data Science**
+- 🌱 I’m currently learning **Computer Vision and Machina Learning**
 
 - 💬 Ask me about **Python, Django, FastAPI**
 
