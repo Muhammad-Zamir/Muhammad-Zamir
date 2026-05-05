@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zamir</h1>
 <h3 align="center">A passionate Python developer</h3>
 
-- 🔭 I’m currently working on **Computer Vision and Deeep Learning**
+- 🔭 I’m currently working on **Computer Vision and Multimodal**
 
 - 🌱 I’m currently learning **Deep Generative Models and Federated Learning**
 
-- 💬 Ask me about **Python, Django, FastAPI, Computer Vision, Deep Learning**
+- 💬 Ask me about **Python, Django, FastAPI, Computer Vision, Multimodal**
 
 - 📫 How to reach me **mzamir@gmail.com**
 
